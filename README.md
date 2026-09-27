@@ -152,16 +152,6 @@ Telegram: **@ifyouask3d**
 
 ---
 
-<h1 align="center"><b>Funded by:</b></h1>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="LOGO/flag-standalone-wtransparent.png">
-  <source media="(prefers-color-scheme: light)" srcset="LOGO/flag-standalone-bw.png">
-  <img alt="SAIL THE PROTOTYPE LOGO" src="URL_TO_BLACK_IMAGE">
-</picture>
- </p>
-
  Thanks a lot to [Hack Club](https://hackclub.com/) for funding this project!
  
  The project got reviewed and approved by [CAN](https://github.com/claynicholson)
