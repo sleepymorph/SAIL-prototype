@@ -149,9 +149,3 @@ Here is an image how it looks from the side, I explained a big rectangular right
 Questions or need more info? Reach out to me!\
 Discord: **Sleepymorph**\
 Telegram: **@ifyouask3d**
-
----
-
- Thanks a lot to [Hack Club](https://hackclub.com/) for funding this project!
- 
- The project got reviewed and approved by [CAN](https://github.com/claynicholson)
